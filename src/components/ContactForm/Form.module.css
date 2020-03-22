@@ -43,7 +43,7 @@
 
 .bar:before,
 .bar:after {
-  content: "";
+  content: '';
   height: 2px;
   width: 0;
   bottom: 0;
@@ -72,7 +72,7 @@
   text-decoration: none;
   background: #ffffff;
   padding: 5px;
-  border: 1px solid #494949 !important;
+  border: 0px solid #494949 !important;
   display: inline-block;
   transition: all 0.4s ease 0s;
 }
